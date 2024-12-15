@@ -24,7 +24,7 @@
   height: 0;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .header { 
     text-align: center;
   }
@@ -139,14 +139,14 @@
 
 /* Edit Task */
 .list__item-task {
-  display:none
+  display: none
 }
 
 .list__item_editmode .list__item-task {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .list__item_editmode .list__item-label {
-  display:none;
+  display: none;
 }
